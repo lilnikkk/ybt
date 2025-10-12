@@ -20,9 +20,9 @@ module.exports = {
 
   Lavalink: {
     id: "Main",
-    host: "lavalink-v3.triniumhost.com",
-    port: 443,
-    pass: "free",
+    host: "lava-v3.ajieblogs.eu.org",
+    port: 80,
+    pass: "https://dsc.gg/ajidevserver",
   },
 
 
